@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+<div class="container mt-5">
+  <div class="row mt-5 mb-4">
+    <div class="col">
+      <h1>DESTINY</h1>
+      <h2>Digital Evidence Synthesis Tool Innovation<br/> Yielding Improvements in Climate & Health</h2>
+      <p class="lead">
+        This is a Wellcome-funded consortium on a mission to build the next generation of synthesis tools to deliver
+        rigorous living evidence in climate and health that matters to policymakers and other evidence users.
+      </p>
+    </div>
+  </div>
+
+  {{ block "main" . }}{{ end }}
+
+  <div class="mt-5 mb-5">
+    <a href="https://www.pik-potsdam.de/de/impressum">Imprint</a>
+  </div>
+</div>
+
+
+<!--  <header>-->
+<!--    {{/* partial "header.html" .  */}}-->
+<!--  </header>-->
+<!--  <main>-->
+<!--    {{/*  block "main" . }}{{ end */}}-->
+<!--  </main>-->
+<!--  <footer>-->
+<!--    {{/* partial "footer.html" . */}}-->
+<!--  </footer>-->
+</body>
+</html>

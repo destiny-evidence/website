@@ -1,0 +1,7 @@
+baseURL = 'https://evidence-synthesis.org/'
+languageCode = 'en-us'
+title = 'DESTINY: Digital Evidence Synthesis Tool Innovation Yielding Improvements in Climate & Health'
+
+[markup.goldmark.renderer]
+  unsafe = true
+

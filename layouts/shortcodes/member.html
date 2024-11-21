@@ -1,0 +1,18 @@
+{{ $pi := default "" (.Get "pi") }}
+
+{{ $src := default "img/people/fallback.png" (.Get "src") }}
+{{ $image := resources.Get $src }}
+{{ $image := $image.Fill "75x75" }}
+{{ $image := $image.Process "png" }}
+
+<div class="member {{ with $pi }} pi {{ end }}">
+  <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" />
+
+  {{ with (.Get "name") -}}
+    <div class="name">{{ . }}</div>
+  {{- end -}}
+
+  {{ with (.Get "inst") -}}
+    <div class="inst">{{ . }}</div>
+  {{- end -}}
+</div>

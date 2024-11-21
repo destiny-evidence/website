@@ -1,0 +1,20 @@
+{{ $src := (.Get "src") }}
+{{ $proc := default "resize 300x" (.Get "proc") }}
+{{ $image := resources.Get $src }}
+{{ $image := $image.Process $proc }}
+{{/* $image := $image.Filter images.Grayscale */}}
+{{ $image := $image.Process "png" }}
+
+
+<div class="institution">
+   {{- if .Get "href" -}}
+    <a href="{{ .Get "href" }}" target="_blank">
+  {{- end -}}
+  <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" />
+  {{- if .Get "href" }}</a>{{ end -}}
+
+  {{ with (.Get "name") -}}
+    <div class="name">{{ . }}</div>
+  {{- end -}}
+</div>
+
