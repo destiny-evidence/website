@@ -63,6 +63,10 @@ Our multi-international core team has 45 members from nine institutions
 who are closely collaborating with partners across more than 30 institutions.
 The consortium is lead by Jan Minx at PIK.
 
+DESTINY is supported by Wellcome's Climate and Health programme. 
+Since this project was agreed, Wellcome have announced a new intent to fund an [Evidence Synthesis Infrastructure Collaborative](https://wellcome.org/news/evidence-synthesis-infrastructure-collaborative) which is not specific to climate and health or digital evidence synthesis tools. 
+That announcement is separate from this project.
+
 
 <div class="institutions mb-5">
   {{< inst src="img/inst/pik.png" name="MCC@PIK" href="https://www.pik-potsdam.de/" proc="resize 150x" >}}
@@ -89,7 +93,7 @@ The consortium is lead by Jan Minx at PIK.
   {{< member pi="yes" name="Karla Soares-Weiser" inst="Cochrane" >}}
   {{< member name="Toby Lasserson" inst="Cochrane" >}}
   {{< member name="Anna Noel-Storr" inst="Cochrane" >}}
-  {{< member name="Ella Flemyng" inst="Cochrane" >}}
+  {{< member src="img/people/ef.jpg" name="Ella Flemyng" inst="Cochrane" >}}
   {{< member name="Gert van Valkenhoef" inst="Cochrane" >}}
   
   {{< member pi="yes" name="Christopher Trisos" inst="ASCEND/Uni Capetown" >}}
