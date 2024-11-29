@@ -96,7 +96,7 @@ That announcement is separate from this project.
   {{< member src="img/people/ef.jpg" name="Ella Flemyng" inst="Cochrane" >}}
   {{< member name="Gert van Valkenhoef" inst="Cochrane" >}}
   
-  {{< member pi="yes" src="img/people/ct.jpg" name="Christopher Trisos" inst="ASCEND/Uni Capetown" >}}
+  {{< member pi="yes" src="img/people/ct.jpg" name="Christopher Trisos" inst="Director of ASCEND" >}}
   
   {{< member pi="yes" name="Rhona Mijumbi" inst="ACRES" >}}
   {{< member name="Ismael Kawooya" inst="ACRES" >}}
