@@ -109,7 +109,7 @@ That announcement is separate from this project.
   {{< member name="Eleanor Darby" inst="LSHTM" >}}
   {{< member name="Hugh Waddington" inst="LSHTM" >}}
   
-  {{< member pi="yes" src="img/people/ft.jpg" name="James Thomas" inst="EPPI@UCL" >}}
+  {{< member pi="yes" src="img/people/jt.jpeg" name="James Thomas" inst="EPPI@UCL" >}}
   {{< member name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
   {{< member name="Sergio Graziosi" inst="EPPI@UCL" >}}
   
