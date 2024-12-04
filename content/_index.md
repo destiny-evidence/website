@@ -86,11 +86,13 @@ That announcement is separate from this project.
   {{< member src="img/people/kps.jpg" name="Kristina Peselyte-Schneider" inst="MCC@PIK" >}}
   {{< member src="img/people/tr.jpg" name="Tim Repke" inst="MCC@PIK" >}}
   
-  {{< member pi="yes" name="Julian Elliott" inst="FEF" >}}
-  {{< member pi="yes" name="Ruth Steward" inst="FEF" >}}
-  {{< member name="Britta Jeppesen" inst="FEF" >}}
+  {{< member pi="yes" src="img/people/je.png" name="Julian Elliott" inst="FEF" >}}
+  {{< member pi="yes" src="img/people/rs.png" name="Ruth Stewart" inst="FEF" >}}
+  {{< member src="img/people/bj.png" name="Britta Jeppesen" inst="FEF" >}}
+  {{< member src="img/people/ah.png" name="Andrew Harvey" inst="FEF" >}}
+  {{< member src="img/people/rf.jpg" name="Ryan Fitton" inst="FEF" >}}
   
-  {{< member pi="yes" name="Karla Soares-Weiser" inst="Cochrane" >}}
+  {{< member pi="yes" src="img/people/ksw.jpg" name="Karla Soares-Weiser" inst="Cochrane" >}}
   {{< member name="Toby Lasserson" inst="Cochrane" >}}
   {{< member name="Anna Noel-Storr" inst="Cochrane" >}}
   {{< member src="img/people/ef.jpg" name="Ella Flemyng" inst="Cochrane" >}}
@@ -98,23 +100,23 @@ That announcement is separate from this project.
   
   {{< member pi="yes" src="img/people/ct.jpg" name="Christopher Trisos" inst="Director of ASCEND" >}}
   
-  {{< member pi="yes" name="Rhona Mijumbi" inst="ACRES" >}}
+  {{< member pi="yes" src="img/people/rmd.jpg" name="Rhona Mijumbi" inst="ACRES" >}}
   {{< member name="Ismael Kawooya" inst="ACRES" >}}
   {{< member name="Caroline Nakalema" inst="ACRES" >}}
   
-  {{< member pi="yes" name="Pauline Scheeleek" inst="LSHTM" >}}
-  {{< member pi="yes" name="Rosemary Green" inst="LSHTM" >}}
+  {{< member pi="yes" src="img/people/ps.jpg" name="Pauline Scheelbeek" inst="LSHTM" >}}
+  {{< member pi="yes" src="img/people/rg.jpg" name="Rosemary Green" inst="LSHTM" >}}
   {{< member name="Eleanor Darby" inst="LSHTM" >}}
   {{< member name="Hugh Waddington" inst="LSHTM" >}}
   
-  {{< member name="James Thomas" inst="UCL" >}}
+  {{< member pi="yes" name="James Thomas" inst="UCL" >}}
   {{< member name="Ailbhe Finnerty" inst="UCL" >}}
   {{< member name="Sergio Graziosi" inst="UCL" >}}
   
-  {{< member pi="yes" name="Patrick Okwen" inst="eBASE" >}}
+  {{< member pi="yes" src="img/people/po.png" name="Patrick Okwen" inst="eBASE" >}}
   {{< member name="Alang Ernest" inst="eBASE" >}}
   
-  {{< member pi="yes" name="Will Moy" inst="Campbell" >}}
+  {{< member pi="yes" src="img/people/wm.jpg" name="Will Moy" inst="Campbell" >}}
 </div>
 
 <div class="text-end fst-italic">
