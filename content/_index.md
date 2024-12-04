@@ -70,7 +70,7 @@ That announcement is separate from this project.
 
 <div class="institutions mb-5">
   {{< inst src="img/inst/pik.png" name="MCC@PIK" href="https://www.pik-potsdam.de/" proc="resize 150x" >}}
-  {{< inst src="img/inst/ucl.jpg" name="" href="https://eppi.ioe.ac.uk/" proc="resize 100x" >}}
+  {{< inst src="img/inst/ucl.jpg" name="EPPI@UCL" href="https://eppi.ioe.ac.uk/" proc="resize 100x" >}}
   {{< inst src="img/inst/ebase.png" name="" href="https://www.ucl.ac.uk" proc="resize 200x" >}}
   {{< inst src="img/inst/campbell.jpg" name="" href="https://www.campbellcollaboration.org/" proc="resize 180x" >}}
   {{< inst src="img/inst/fef.jpg" name="" href="https://www.futureevidence.org/" proc="resize 100x" >}}
@@ -85,9 +85,10 @@ That announcement is separate from this project.
   {{< member src="img/people/dd.jpg" name="Diana Danilenko" inst="MCC@PIK" >}}
   {{< member src="img/people/kps.jpg" name="Kristina Peselyte-Schneider" inst="MCC@PIK" >}}
   {{< member src="img/people/tr.jpg" name="Tim Repke" inst="MCC@PIK" >}}
+  {{< member src="img/people/JT.jpg" name="James Thomas" inst="EPPI@UCL" >}}
   
   {{< member pi="yes" name="Julian Elliott" inst="FEF" >}}
-  {{< member pi="yes" name="Ruth Steward" inst="FEF" >}}
+  {{< member pi="yes" name="Ruth Stewart" inst="FEF" >}}
   {{< member name="Britta Jeppesen" inst="FEF" >}}
   
   {{< member pi="yes" name="Karla Soares-Weiser" inst="Cochrane" >}}
@@ -107,9 +108,9 @@ That announcement is separate from this project.
   {{< member name="Eleanor Darby" inst="LSHTM" >}}
   {{< member name="Hugh Waddington" inst="LSHTM" >}}
   
-  {{< member name="James Thomas" inst="UCL" >}}
-  {{< member name="Ailbhe Finnerty" inst="UCL" >}}
-  {{< member name="Sergio Graziosi" inst="UCL" >}}
+  {{< member pi="yes" name="James Thomas" inst="EPPI@UCL" >}}
+  {{< member name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
+  {{< member name="Sergio Graziosi" inst="EPPI@UCL" >}}
   
   {{< member pi="yes" name="Patrick Okwen" inst="eBASE" >}}
   {{< member name="Alang Ernest" inst="eBASE" >}}
