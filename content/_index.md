@@ -102,16 +102,16 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
   {{< member src="img/people/rf.jpg" name="Ryan Fitton" inst="FEF" >}}
   
   {{< member pi="yes" src="img/people/ksw.jpg" name="Karla Soares-Weiser" inst="Cochrane" >}}
-  {{< member name="Toby Lasserson" inst="Cochrane" >}}
-  {{< member name="Anna Noel-Storr" inst="Cochrane" >}}
+  {{< member src="img/people/tl.jpg" name="Toby Lasserson" inst="Cochrane" >}}
+  {{< member src="img/people/ans.jpg" name="Anna Noel-Storr" inst="Cochrane" >}}
   {{< member src="img/people/ef.jpg" name="Ella Flemyng" inst="Cochrane" >}}
-  {{< member name="Gert van Valkenhoef" inst="Cochrane" >}}
+  {{< member src="img/people/gv.jpg" name="Gert van Valkenhoef" inst="Cochrane" >}}
   
   {{< member pi="yes" src="img/people/ct.jpg" name="Christopher Trisos" inst="Director of ASCEND" >}}
   
   {{< member pi="yes" src="img/people/rmd.jpg" name="Rhona Mijumbi" inst="ACRES" >}}
-  {{< member name="Ismael Kawooya" inst="ACRES" >}}
-  {{< member name="Caroline Nakalema" inst="ACRES" >}}
+  {{< member src="img/people/ik.jpg" name="Ismael Kawooya" inst="ACRES" >}}
+  {{< member src="img/people/cn.jpg" name="Caroline Nakalema" inst="ACRES" >}}
   
   {{< member pi="yes" src="img/people/ps.jpg" name="Pauline Scheelbeek" inst="LSHTM" >}}
   {{< member pi="yes" src="img/people/rg.jpg" name="Rosemary Green" inst="LSHTM" >}}
