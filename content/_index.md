@@ -116,7 +116,7 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
   {{< member pi="yes" src="img/people/ps.jpg" name="Pauline Scheelbeek" inst="LSHTM" >}}
   {{< member pi="yes" src="img/people/rg.jpg" name="Rosemary Green" inst="LSHTM" >}}
   {{< member name="Eleanor Darby" inst="LSHTM" >}}
-  {{< member name="Hugh Waddington" inst="LSHTM" >}}
+  {{< member src="img/people/hsw.jpg" name="Hugh Sharma Waddington" inst="LSHTM" >}}
   
   {{< member pi="yes" src="img/people/jt.jpeg" name="James Thomas" inst="EPPI@UCL" >}}
   {{< member src="img/people/af.JPG" name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
