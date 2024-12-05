@@ -123,7 +123,8 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
   {{< member src="img/people/sg.jpg" name="Sergio Graziosi" inst="EPPI@UCL" >}}
   
   {{< member pi="yes" src="img/people/po.png" name="Patrick Okwen" inst="eBASE" >}}
-  {{< member name="Alang Ernest" inst="eBASE" >}}
+  {{< member src="img/people/tkt.png" name="Tetamiyaka Kinlabel Tezok" inst="eBASE" >}}
+  {{< member src="img/people/aew.png" name="Alang Ernest Wung" inst="eBASE" >}}
   
   {{< member pi="yes" src="img/people/wm.jpg" name="Will Moy" inst="Campbell" >}}
 </div>
