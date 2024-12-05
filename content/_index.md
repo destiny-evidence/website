@@ -1,26 +1,35 @@
+# DESTINY {#top}
+# AI-Powered Living Evidence for Climate & Health
 
-DESTinY will co-develop a new generation of digital evidence synthesis tools (DESTs) and showcase their transformational power for the delivery of rigorous living evidence in climate and health that matters to policymakers and other evidence users. This defines who we work with, how we work, and the technology we use to make evidence synthesis dramatically more useful.
+It is our moral obligation to protect people around the world against the climate crisis based on the best and most recent evidence available. 
+This is a Wellcome-funded consortium on a mission to build the next generation of evidence synthesis tools driven by artificial intelligence to deliver rigorous living evidence in climate and health that matters to policymakers and other evidence users.
+
+
+DESTINY (**D**igitial **E**vidence **S**ynthesis **T**ool **IN**novation for **Y**ielding Improvements in Climate & Health) will co-develop a new generation of digital evidence synthesis tools (DESTs) and showcase their transformational power for the delivery of rigorous living evidence in climate and health that matters to policymakers and other evidence users. 
+This defines who we work with, how we work, and the technology we use to make evidence synthesis dramatically more useful.
 In particular, our project will:
-* **Leverage recent AI advances** to develop new DESTs, enhancing evidence synthesis by reconfiguring human-machine interactions;
-* **Engage in DEST evaluation** to design safe and responsible applications without eroding methodological standards;
-* **Build communities of practice** with decision makers around the globe and across scales to ensure DESTs are fit-for-purpose, work for all and are applied to six impact cases that matter; and
-* **Support users, producers, and funders** of climate and health evidence synthesis to establish best practices.
+* **Leverage recent AI advances** to develop new DESTs, enhancing evidence synthesis by reconfiguring human-machine interactions (WP2);
+* **Engage in DEST evaluation** to design safe and responsible applications without eroding methodological standards (WP3);
+* **Build communities of practice** with decision makers around the globe and across scales to ensure DESTs are fit-for-purpose, work for all and are applied to six impact cases that matter (WP1, WP4); and
+* Mainstream use of DESTs and **support users, producers, and funders** of climate and health evidence synthesis to establish best practices (WP5).
+
+{{< figure src="img/figures/overview.svg" caption="Overview of the DESTINY project" class="text-center" width="90%" >}}
 
 ---
 
-### Delivering on real-world user needs
-Co-production is at the heart of the project. 
-We will use the Alive (Alliance for Living Evidence) partnership model to ensure DEST development is responsive to the needs of users involved in driving evidence-informed climate and health policy and action.
+### Delivering on real-world user needs {#alive}
+Co-production is at the heart of the project as technology is transformative through its users.
+We will use the proven Alive (Alliance for Living Evidence) partnership model to ensure DEST development is responsive to the needs of users involved in driving evidence-informed climate and health policy and action.
 We will convene partnerships between decision makers, advisors, intermediary organisations and evidence synthesis groups, supporting them to work together to identify, synthesise and engage with living evidence for climate and health decision-making.
 This places evidence users at the centre of tool development, evidence generation, and real-world impact. 
 
 This work will be supported by the long-standing relationships with regional and local decision-makers of our consortium members LSHTM, eBASE, ACRES and ASCEND, combined with experience in brokering actionable evidence for impactful decision-making.
 
-{{< figure src="img/figures/alive.svg" caption="**Alive model:** Providing reliable and timely evidence to ensure decision-markers' needs are met" class="text-center" width="90%" >}}
+{{< figure src="img/figures/alive.svg" caption="**Alive model:** Providing reliable and timely evidence to ensure decision-makers' needs are met" class="text-center" width="90%" >}}
 
 ---
 
-### Building next-generation synthesis tools
+### Building the next generation of digital evidence synthesis tools (DESTs) {#tools}
 Tool development will be driven by an overriding objective to deliver a step-change in making evidence synthesis faster, cheaper, timelier, and more useful. 
 We will prioritise the automation of complex and resource-intensive tasks, including study discovery, data extraction and harmonisation, critical appraisal, and synthesis. 
 Outputs will be modular, open and FAIR (through APIs, code, and apps) to ensure innovations are shared widely, drive adoption by third party tools and catalyse growth in the research and development of machine learning for evidence synthesis and use.
@@ -41,7 +50,7 @@ We will systematically address **four key bottlenecks** that currently inhibit t
 
 ---
 
-### Communities of practice for six impact cases 
+### Communities of practice for six impact cases {#cop}
 We will safely and responsibly apply DESTs in six Alive communities of practice for living evidence to showcase that DESTs are fit-for-purpose in climate and health, work for diverse users, and deliver real-world impacts.
 
 The first two impact cases will co-create needs-driven living evidence mapping methodologies to improve the effectiveness of the overall evidence ecosystem for knowledge users operating at local to global scales. 
@@ -58,7 +67,7 @@ Impact cases 3–6 will focus on co-producing rigorous living systematic reviews
 
 ---
 
-### DESTINY consortium
+### DESTINY consortium {#people}
 Our multi-international core team has 45 members from nine institutions
 who are closely collaborating with partners across more than 30 institutions.
 The consortium is lead by Jan Minx at PIK.
@@ -66,7 +75,7 @@ The consortium is lead by Jan Minx at PIK.
 DESTINY is supported by Wellcome's Climate and Health programme. 
 Since this project was agreed, Wellcome have announced a new intent to fund an [Evidence Synthesis Infrastructure Collaborative](https://wellcome.org/news/evidence-synthesis-infrastructure-collaborative) which is not specific to climate and health or digital evidence synthesis tools. 
 That announcement is separate from this project.
-
+In DESTINY we strive to make valuable contributions to the evidence infrastructure and welcome opportunities to integrate our work with new initiatives supported through this announcement.
 
 <div class="institutions mb-5">
   {{< inst src="img/inst/pik.png" name="MCC@PIK" href="https://www.pik-potsdam.de/" proc="resize 150x" >}}
@@ -110,8 +119,8 @@ That announcement is separate from this project.
   {{< member name="Hugh Waddington" inst="LSHTM" >}}
   
   {{< member pi="yes" src="img/people/jt.jpeg" name="James Thomas" inst="EPPI@UCL" >}}
-  {{< member name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
-  {{< member name="Sergio Graziosi" inst="EPPI@UCL" >}}
+  {{< member src="img/people/af.JPG" name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
+  {{< member src="img/people/sg.jpg" name="Sergio Graziosi" inst="EPPI@UCL" >}}
   
   {{< member pi="yes" src="img/people/po.png" name="Patrick Okwen" inst="eBASE" >}}
   {{< member name="Alang Ernest" inst="eBASE" >}}
@@ -134,7 +143,7 @@ That announcement is separate from this project.
 
 ---
 
-### Get in touch
+### Get in touch {#contact}
 Are you interested to learn more, to collaborate, or to work with us?
 We are looking forward to hear from you!
 
