@@ -80,7 +80,7 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
 <div class="institutions mb-5">
   {{< inst src="img/inst/pik.png" name="MCC@PIK" href="https://www.pik-potsdam.de/" proc="resize 150x" >}}
   {{< inst src="img/inst/ucl.jpg" name="EPPI@UCL" href="https://eppi.ioe.ac.uk/" proc="resize 100x" >}}
-  {{< inst src="img/inst/ebase.png" name="" href="https://www.ucl.ac.uk" proc="resize 200x" >}}
+  {{< inst src="img/inst/ebase.png" name="" href="https://www.ebaseafrica.org/" proc="resize 200x" >}}
   {{< inst src="img/inst/campbell.jpg" name="" href="https://www.campbellcollaboration.org/" proc="resize 180x" >}}
   {{< inst src="img/inst/fef.jpg" name="" href="https://www.futureevidence.org/" proc="resize 100x" >}}
   {{< inst src="img/inst/lshtm.jpg" name="" href="https://www.lshtm.ac.uk/" proc="resize 200x" >}}
