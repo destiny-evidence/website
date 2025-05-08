@@ -89,11 +89,11 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
 </div>
 
 <div class="d-flex flex-row flex-wrap justify-content-center">
-  {{< member src="img/people/jm.jpg" pi="yes" name="Jan Minx" inst="MCC@PIK" >}}
-  {{< member src="img/people/mc.jpg" pi="yes" name="Max Callaghan" inst="MCC@PIK" >}}
-  {{< member src="img/people/dd.jpg" name="Diana Danilenko" inst="MCC@PIK" >}}
-  {{< member src="img/people/kps.jpg" name="Kristina Peselyte-Schneider" inst="MCC@PIK" >}}
-  {{< member src="img/people/tr.jpg" name="Tim Repke" inst="MCC@PIK" >}}
+  {{< member src="img/people/jm.jpg" pi="yes" name="Jan Minx" inst="PIK" >}}
+  {{< member src="img/people/mc.jpg" pi="yes" name="Max Callaghan" inst="PIK" >}}
+  {{< member src="img/people/dd.jpg" name="Diana Danilenko" inst="PIK" >}}
+  {{< member src="img/people/kps.jpg" name="Kristina Peselyte-Schneider" inst="PIK" >}}
+  {{< member src="img/people/tr.jpg" name="Tim Repke" inst="PIK" >}}
   
   {{< member pi="yes" src="img/people/je.png" name="Julian Elliott" inst="FEF" >}}
   {{< member pi="yes" src="img/people/rs.png" name="Ruth Stewart" inst="FEF" >}}
@@ -121,7 +121,10 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
   {{< member pi="yes" src="img/people/jt.jpeg" name="James Thomas" inst="EPPI@UCL" >}}
   {{< member src="img/people/af.JPG" name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
   {{< member src="img/people/sg.jpg" name="Sergio Graziosi" inst="EPPI@UCL" >}}
-  
+  {{< member src="img/people/ls.jpg" name="Lena Schmidt" inst="EPPI@UCL" >}}
+  {{< member name="Kaitlyn Hair" inst="EPPI@UCL" >}}
+  {{< member name="Kaitlyn Hair" inst="EPPI@UCL" >}}
+
   {{< member pi="yes" src="img/people/po.png" name="Patrick Okwen" inst="eBASE" >}}
   {{< member src="img/people/tkt.png" name="Tetamiyaka Kinlabel Tezok" inst="eBASE" >}}
   {{< member src="img/people/aew.png" name="Alang Ernest Wung" inst="eBASE" >}}
