@@ -5,7 +5,7 @@ summary = 'Focusing on evluations and innovative user interfaces'
 +++
 
 *July 10–11*
-{{< figure src="/events/img/pik.jpg" width="100%" >}}
+{{< figure src="../img/pik.jpg" width="100%" >}}
 
 This is [the signup form](https://cloud.pik-potsdam.de/index.php/apps/forms/s/sZQErTQcQcWBxZRNKbWtdfMJ) for the first
 DEST hackathon in [Potsdam on the Telegrafenberg](https://www.pik-potsdam.de/en/institute/contact/where).
