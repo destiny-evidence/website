@@ -122,7 +122,7 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
   {{< member src="img/people/af.JPG" name="Ailbhe Finnerty" inst="EPPI@UCL" >}}
   {{< member src="img/people/sg.jpg" name="Sergio Graziosi" inst="EPPI@UCL" >}}
   {{< member src="img/people/ls.jpg" name="Lena Schmidt" inst="EPPI@UCL" >}}
-  {{< member src="img/people/kh.jpg" name="Kaitlyn Hair" inst="EPPI@UCL" >}}
+  {{< member src="img/people/kh.png" name="Kaitlyn Hair" inst="EPPI@UCL" >}}
   {{< member src="img/people/ns.jpg" name="Nadia Soliman" inst="EPPI@UCL" >}}
 
   {{< member pi="yes" src="img/people/po.png" name="Patrick Okwen" inst="eBASE" >}}
