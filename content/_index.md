@@ -92,6 +92,9 @@ In DESTINY we strive to make valuable contributions to the evidence infrastructu
   {{< member src="img/people/jm.jpg" pi="yes" name="Jan Minx" inst="PIK" >}}
   {{< member src="img/people/mc.jpg" pi="yes" name="Max Callaghan" inst="PIK" >}}
   {{< member src="img/people/dd.jpg" name="Diana Danilenko" inst="PIK" >}}
+  {{< member src="img/people/ig.jpg" name="Ishita Gopal" inst="PIK" >}}
+  {{< member name="Shona McCulloch" inst="PIK" >}}
+  {{< member src="img/people/mim.jpg" name="Maria-Inti Metzendorf" inst="PIK" >}}
   {{< member src="img/people/kps.jpg" name="Kristina Peselyte-Schneider" inst="PIK" >}}
   {{< member src="img/people/tr.jpg" name="Tim Repke" inst="PIK" >}}
   
