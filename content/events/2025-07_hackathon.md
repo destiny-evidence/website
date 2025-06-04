@@ -31,7 +31,7 @@ with ideas such as preparing (semi-)supervised fine-tuning data for domain-speci
 The hackathon is co-hosted with the DESTinY and ICASR meeting.
 If you already indicated your hackathon participation there, you don't need to sign up here too.
 
-## Project ideas
+## Themes
 
 We are still working on preparing topics and we won't limit the choices by our proposals.
 This list is to give you an idea of potential projects and projects where someone committed to prepare input.
@@ -46,4 +46,40 @@ This list is to give you an idea of potential projects and projects where someon
   benchmarking framework.
 * **Enhancement processes:** Play with the new DESTinY repository, to learn how to use the interchangeable formats that
   we will base our future developments on. This helps us to collect feedback and you could bring your favourite tool
-  into the DESTinY ecosystem. 
+  into the DESTinY ecosystem.
+
+## Proposed projects
+
+**Handbook for AI accuracy**    
+We know that automtion in digital evidence synthesis tools with the help of AI may not lead to perfect results. Hence we need to fomulate tangible guidelines for accuracy requirements for different use-cases to inform the development of such tools. In this project, we will use the results of our survey sent to users and producers of evidence. How good is good enough? Are there ethical concerns? No programming skills required. 
+
+**Effective user interfaces for synthesised evidence**    
+We are currently building a powerful repository of scientific and non-scientific publications and the infrastructure around it to support enhancement processes to add knowledge to existing records. The key challenge will be to enable users to effectively explore this wealth of information. In this project, we will collect existing interfaces and evaluate the efficacy for different use-cases, such as identifying research gaps, finding relevant literature for a review, or information to support policy-makers. We also want to set up and conduct user studies to see if using such tools is actually faster or leads to more complete information. No programming skills required. 
+
+**The stopping game**     
+We all know that staring at an incomplete plot of the cumulative number of included abstracts over the number of screened abstracts is not a good way to determine when to stop screening when using prioritisation. Stopping methods are here to help, but are not perfect either. Max Callaghan started to work on a simulation game that slowly plots such a gain curve and users have to decide when to stop. He’d like to develop this further and collect data from this fun experiment. Programming skills required if you want to develop something, no programming skills required for testing and feedback. 
+
+**Knowledge transfer**    
+Research, particularly case-studies, are unfortunately not well distributed across all the world regions. However, there might still be learning potential by identifying which evidence-sparse areas are comparable to areas with more research and transfer knowledge from there to evidence-based decision-making. Can we add confidence scores on “how well” the available evidence fits another case? Reviewing the eBASE transferability toolkit. Some programming skills required for data wrangling, no programming skills required to steer and inform the project. 
+
+**Screening with large language models**    
+Evaluation of using LLMs in automating screening updates of living reviews, and ways of ensembling binary LLM predictions within active learning processes; stopping rules for llm-based priority screening; ways to make methods based on LLMs more reliable or to make it easier to spot mistakes made by the machine  
+
+**Data sharing circle**    
+We all need data for development and evaluation of automations. We critically need for form a working group to foster data sharing and standardising the formats with respect to which meta-data is needed (e.g. structured inclusion criteria / codebooks), licences for re-sharing, data structures, … Everyone can participate here, also part-time to just drop in and share what data they know of or have available. 
+
+**Build your DESTinY robot**    
+The new DESTinY repository will use modular processes to enhance the data in the knowledge base which we currently call “robots”. We invite everyone to check out our early demonstrator and the SDK to add their favourite data mining or information extraction tools. Programming skills required. 
+
+**Produce synthetic abstracts**    
+Current systematic syntheses are struggling: Abstracts are increasingly hard to get and the ones we have vastly differ in their usefulness (for example short 130 word abstracts). To mitigate this, we would like to use synthetic summaries that follow a standardised format. This helps downstream automations and should improve human screening efforts. In this project, we want to run early experiments to figure out how those summaries should look like (no programming required, information specialists very welcome) and how to get there (potentially some programming required). 
+
+**Build a living evidence dashboard**    
+Eventually, the DESTinY repository will be an open community resource of living evidence. This means, that the available knowledge should always be up-to-date. People in the field might want to stay informed of the latest trends, so we’d like to build dashboards or helpful newsletters that feature shifts and other news. Help to design (no programming) and prototype (programming needed) such tools. 
+
+**Capability testing**    
+There are a bunch of concrete project ideas to test the capabilities of AI. They may or may not take place, interest groups and form spontaneously. Some examples: 
+* Testing and evaluating digital tools for literature screening and data extraction on ex-post effectiveness of carbon pricing studies  
+* Knowledge graphs from entities in publications (e.g. PICO by experiment) and relationship between entities and the strength of 	these relationships. 
+* Causality mining from text 
+* Who can build the best classifiers using gold standard data? 
