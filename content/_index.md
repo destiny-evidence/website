@@ -77,6 +77,8 @@ Since this project was agreed, Wellcome have announced a new intent to fund an [
 That announcement is separate from this project.
 In DESTINY we strive to make valuable contributions to the evidence infrastructure and welcome opportunities to integrate our work with new initiatives supported through this announcement.
 
+A summary of our early thinking on decentralised, open source, open science approaches to sharing of evidence data is [here](/files/EvidenceDataSystem_2025June.pdf).
+
 <div class="institutions mb-5">
   {{< inst src="img/inst/pik.png" name="MCC@PIK" href="https://www.pik-potsdam.de/" proc="resize 150x" >}}
   {{< inst src="img/inst/ucl.jpg" name="EPPI@UCL" href="https://eppi.ioe.ac.uk/" proc="resize 100x" >}}
